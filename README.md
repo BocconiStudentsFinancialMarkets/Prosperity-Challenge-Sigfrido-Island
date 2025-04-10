@@ -49,3 +49,6 @@ The Prosperity Challenge is a multi-round algorithmic trading competition where 
   - Performance tuning.
   - Strategy diversification.
   - Stress testing.
+
+## 🤝 Team Members
+- [@salvaridou]()
