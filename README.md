@@ -52,4 +52,6 @@ The Prosperity Challenge is a multi-round algorithmic trading competition where 
 
 ## 🤝 Team Members
 - [@salvaridou](https://github.com/salvaridou)
-- 
+- [@raresmanta](https://github.com/raresmanta)
+- [@elyely4248](https://github.com/elyely4248)
+
